@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + tailwind CSS
+# React + TypeScript + Vite + Tailwind CSS
 
 # Calculadora
 ## Descripción
